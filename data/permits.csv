@@ -1,0 +1,7 @@
+permit_id,kind,location,issued,expires,closed,gas_test,fire_watch
+HW-101,hot work,Building A boiler room,2026-03-09T08:00,2026-03-09T15:00,2026-03-09T14:30,no,yes
+HW-102,hot work,Building B roof,2026-03-09T07:00,2026-03-09T18:00,2026-03-09T17:45,no,yes
+HW-103,hot work,Building A mechanical room,2026-03-10T09:00,2026-03-10T13:00,,no,no
+CS-201,confined space,Building A mechanical room,2026-03-10T08:00,2026-03-10T16:00,,yes,no
+CS-202,confined space,Building C storm vault,2026-03-09T09:00,2026-03-09T15:00,2026-03-09T15:10,no,no
+CS-203,confined space,Building C tank pit,2026-03-08T07:00,2026-03-08T12:00,2026-03-08T13:30,yes,no
