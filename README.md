@@ -2,6 +2,8 @@
 
 # permit-to-work-tracker
 
+[![CI](https://github.com/yassine2med/permit-to-work-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/permit-to-work-tracker/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Reads a permit log in CSV and lists every hot work or confined space permit that breaks a basic rule.
 
 ![Screenshot](docs/screenshot.png)
