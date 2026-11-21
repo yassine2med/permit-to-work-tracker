@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="permit-to-work-tracker" width="100%"></p>
+
 # permit-to-work-tracker
 
 Reads a permit log in CSV and lists every hot work or confined space permit that breaks a basic rule.
